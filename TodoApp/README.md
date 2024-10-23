@@ -1,4 +1,4 @@
-#Todo Application
-##Run Command:
-java -cp target/classes org.todoapp.TodoApplication
+# Todo Application
+## Run Command:
+```java -cp target/classes org.todoapp.TodoApplication```
 
